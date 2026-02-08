@@ -126,7 +126,7 @@ I specialize in designing software that performs reliably under real-world load,
     <td width="50%">
       <h3 align="center">🚄 MahaKavach Platform</h3>
       <p align="center">
-        <a href="https://github.com/harsh-shah-1/mahakavach-backend" target="_blank">
+        <a href="[https://github.com/harsh-shah-1/mahakavach-backend](https://github.com/harshshah-2023/mahakavach-backend)" target="_blank">
           <img src="https://img.shields.io/badge/Backend-Repository-blue?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -144,41 +144,8 @@ I specialize in designing software that performs reliably under real-world load,
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Inference Service</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Coming-Soon-orange?style=for-the-badge"/>
-        </a>
-      </p>
-      <p><strong>Low-latency multimodal AI pipeline</strong></p>
-      <p>
-        • Optimized inference for vision & NLP models<br>
-        • Async processing with batching strategies<br>
-        • Docker-based deployment pipeline<br>
-        • Production-grade error handling
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
-    </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-shah-1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-shah-1&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-shah-1&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
 
 ---
 
@@ -187,10 +154,10 @@ I specialize in designing software that performs reliably under real-world load,
 class CurrentFocus:
     def __init__(self):
         self.areas = [
-            "🔄 Real-time & event-driven system design",
-            "⚡ Low-latency AI inference services", 
-            "☁️ Cloud-native deployment automation",
-            "🏗️ Systems & infrastructure engineering"
+            " Real-time & event-driven system design",
+            " Low-latency AI inference services", 
+            " Cloud-native deployment automation",
+            " Systems & infrastructure engineering"
         ]
     
     def next_learning_goals(self):
@@ -204,7 +171,7 @@ class CurrentFocus:
 
 ---
 
-## 📝 Recent Activity
+##  Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -216,10 +183,10 @@ class CurrentFocus:
 > **"Build systems that scale. Ship software that lasts."**
 
 I believe in:
-- 🎯 **Engineering Excellence** - Writing code that's maintainable, testable, and production-ready
-- 📐 **System Design** - Thinking beyond features to architecture and scalability
-- 🔧 **Pragmatic Solutions** - Balancing ideal architecture with shipping velocity
-- 📚 **Continuous Learning** - Staying current with evolving technologies and patterns
+-  **Engineering Excellence** - Writing code that's maintainable, testable, and production-ready
+-  **System Design** - Thinking beyond features to architecture and scalability
+-  **Pragmatic Solutions** - Balancing ideal architecture with shipping velocity
+-  **Continuous Learning** - Staying current with evolving technologies and patterns
 
 ---
 
