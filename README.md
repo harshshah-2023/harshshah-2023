@@ -1,221 +1,369 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A6E3A1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Shah+%F0%9F%91%8B;Full-Stack+Engineer;AI+%26+Systems+Architect;Building+Scalable+Solutions" alt="Typing SVG" />
+
+# Harsh Shah
+
+### Product Engineer · Systems & AI
+
+**I architect, build, deploy, and own software products end-to-end.**
+
+From **system architecture → backend & frontend implementation → AI integration → infrastructure → production**
+
+<p>
+  <a href="https://harshshah.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh-shah-9848hs">
+    <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:harshshah9848@gmail.com">
+    <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
-<h3 align="center">Full-Stack, AI & Systems Engineer</h3>
-<p align="center">
-  <em>Building production-grade systems that scale under real-world load</em>
-</p>
-
-<p align="center">
-  <a href="https://harshshah.onrender.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/harsh-shah-9848hs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:harshshah9848&#64;gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
 ---
 
-## 👨‍💻 About Me
-```typescript
-const harsh = {
-    location: "India 🇮🇳",
-    role: "Systems-Oriented Software Engineer",
-    focus: [
-        "Real-time platforms & event-driven architectures",
-        "Scalable backend services",
-        "Production-grade AI systems"
-    ],
-    philosophy: "Build systems that scale. Ship software that lasts.",
-    currentlyWorkingOn: [
-        "🔄 Real-time crowd monitoring platform (MahaKavach)",
-        "🤖 Low-latency AI inference services",
-        "☁️ Cloud-native deployment automation"
-    ]
-};
+## What I Do
+
+I build **production-oriented software products**, not isolated features.
+
+My work typically spans the entire engineering lifecycle:
+
+```text
+Problem
+   ↓
+Product & System Design
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+AI / Data / Integrations
+   ↓
+Infrastructure & Deployment
+   ↓
+Observability & Reliability
+   ↓
+Production Ownership
 ```
 
-I specialize in designing software that performs reliably under real-world load, with strong attention to **system design**, **clean architecture**, and **operational stability**.
+I enjoy working where **product engineering, distributed systems, AI, and infrastructure intersect**.
+
+The goal is simple:
+
+> **Turn ambiguous product requirements into systems that are understandable, scalable, deployable, and reliable in production.**
 
 ---
 
-## 🛠️ Technology Stack
+## Engineering Profile
 
-<details open>
-<summary><b>⚙️ System & Backend Engineering</b></summary>
-<br>
+```python
+harsh = {
+    "role": "Product Engineer",
+    
+    "ownership": [
+        "Product architecture",
+        "Backend & frontend implementation",
+        "AI system integration",
+        "Infrastructure & deployment",
+        "Production operations"
+    ],
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+    "engineering_focus": [
+        "Distributed & event-driven systems",
+        "Real-time platforms",
+        "High-performance backend services",
+        "AI inference & multimodal pipelines",
+        "Cloud-native infrastructure"
+    ],
 
-- Distributed systems & event-driven architectures
-- High-performance APIs with asynchronous programming
-- WebSocket-based real-time communication
-- Caching strategies, fault tolerance & scalability patterns
-
-</details>
-
-<details open>
-<summary><b>🎨 Full-Stack Engineering</b></summary>
-<br>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- Scalable, performance-focused UIs with React & Next.js
-- SSR, ISR & advanced frontend optimization
-- API-driven architecture with clean separation of concerns
-
-</details>
-
-<details open>
-<summary><b>🤖 AI / ML Engineering</b></summary>
-<br>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-- Real-time inference: **YOLOv11**, **Whisper**, **LLMs**
-- Multimodal AI pipelines (vision, audio, text)
-- Model optimization, deployment & production integration
-
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Infrastructure</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-- Container orchestration & CI/CD automation
-- Linux systems, process management & networking
-- Deployment automation & system observability
-
-</details>
-
-<details open>
-<summary><b>💾 Databases & Caching</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-- Schema design, indexing & performance tuning
-- Document-based & key-value stores
-- Real-time caching & message queues
-
-</details>
+    "way_of_working": [
+        "Design before implementation",
+        "Prefer simple architectures that can evolve",
+        "Optimize for correctness, observability & operability",
+        "Own systems beyond the codebase"
+    ]
+}
+```
 
 ---
 
-## 🚀 Featured Projects
+# Selected Engineering Work
+
+## 🚄 MahaKavach
+
+**Real-time crowd intelligence and public-safety platform**
+
+A production-oriented platform designed around **real-time data ingestion, computer vision inference, event processing, and operational visibility**.
+
+### Architecture
+
+```text
+Cameras / Data Sources
+        ↓
+   Ingestion Layer
+        ↓
+ AI / Vision Pipeline
+        ↓
+ Event Processing
+        ↓
+ Redis / PostgreSQL
+        ↓
+ Real-time APIs
+        ↓
+ WebSocket Clients
+        ↓
+ Operational Dashboard
+```
+
+### Engineering
+
+* Designed the system architecture across application, data, AI, and infrastructure layers
+* Built asynchronous backend services using **FastAPI**
+* Implemented real-time communication using **WebSockets**
+* Integrated **YOLOv11** inference into an operational pipeline
+* Designed PostgreSQL data models and Redis-backed workflows
+* Built the system for continuous event ingestion rather than request/response-only workloads
+* Containerized services and established reproducible deployment workflows
+* Considered horizontal scaling, failure boundaries, observability, and operational behavior as part of system design
+
+**Stack:** `Python` · `FastAPI` · `PostgreSQL` · `Redis` · `WebSockets` · `YOLOv11` · `Docker`
+
+<a href="https://github.com/harshshah-2023/mahakavach-backend">
+<img src="https://img.shields.io/badge/Explore_Repository-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+# Systems I Like Building
+
+### ⚡ Real-Time Systems
+
+Systems where state changes continuously and users cannot wait for polling loops.
+
+`WebSockets` · `asyncio` · `event-driven architecture` · `stream processing`
+
+### 🧠 AI-Integrated Products
+
+Not just training models—building the engineering layer around them.
+
+`Inference APIs` · `Computer Vision` · `LLMs` · `Whisper` · `Model Serving` · `Pipeline Design`
+
+### 🏗️ Backend Platforms
+
+Services designed around reliability, concurrency, data consistency, and predictable behavior.
+
+`Python` · `FastAPI` · `Node.js` · `PostgreSQL` · `Redis`
+
+### ☁️ Infrastructure
+
+The part between **“works locally”** and **“works reliably in production.”**
+
+`Docker` · `Linux` · `Nginx` · `GitHub Actions` · `AWS`
+
+### 🎨 Product Interfaces
+
+Interfaces that are part of the system rather than an afterthought.
+
+`Next.js` · `React` · `TypeScript` · `TailwindCSS`
+
+---
+
+# Technology
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚄 MahaKavach Platform</h3>
-      <p align="center">
-        <a href="[https://github.com/harsh-shah-1/mahakavach-backend](https://github.com/harshshah-2023/mahakavach-backend)" target="_blank">
-          <img src="https://img.shields.io/badge/Backend-Repository-blue?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p><strong>Real-time crowd monitoring & safety intelligence system</strong></p>
-      <p>
-        • Event-driven architecture with WebSocket streaming<br>
-        • YOLOv11-based crowd detection pipeline<br>
-        • FastAPI + PostgreSQL + Redis stack<br>
-        • Horizontal scalability & cloud deployment
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="33%">
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+
+**Architecture**
+
+* REST APIs
+* Async systems
+* Event-driven services
+* WebSockets
+* Distributed workflows
+
+</td>
+
+<td valign="top" width="33%">
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+
+**Engineering**
+
+* Real-time inference
+* Computer vision
+* Multimodal pipelines
+* LLM integration
+* Model serving & optimization
+
+</td>
+
+<td valign="top" width="33%">
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+
+**Operations**
+
+* Containerization
+* CI/CD
+* Deployment automation
+* Networking
+* Observability
+* Production debugging
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🎯 Current Focus
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.areas = [
-            " Real-time & event-driven system design",
-            " Low-latency AI inference services", 
-            " Cloud-native deployment automation",
-            " Systems & infrastructure engineering"
-        ]
-    
-    def next_learning_goals(self):
-        return [
-            "Kubernetes orchestration",
-            "Advanced distributed systems patterns",
-            "ML model optimization techniques",
-            "Site reliability engineering practices"
-        ]
-```
+# Data & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+
+I care about **data models, consistency, indexing, caching, concurrency, and failure behavior**—not simply choosing a database.
 
 ---
 
-##  Recent Activity
+# How I Approach Engineering
+
+### 01 — Start with the system
+
+Before writing code, I try to understand:
+
+**What is the product?**
+**What are the critical flows?**
+**What state exists?**
+**Where does failure happen?**
+**What needs to scale?**
+
+### 02 — Design the boundaries
+
+Good systems are usually defined by their boundaries:
+
+```text
+API
+│
+├── Domain Logic
+│
+├── Data Layer
+│
+├── Async / Event Processing
+│
+├── External Integrations
+│
+└── Infrastructure
+```
+
+Clear boundaries make systems easier to reason about, test, evolve, and operate.
+
+### 03 — Build vertically
+
+I prefer taking important functionality **end-to-end** rather than building disconnected layers:
+
+```text
+Database
+   ↓
+Backend
+   ↓
+API
+   ↓
+AI / Processing
+   ↓
+Frontend
+   ↓
+Deployment
+   ↓
+Production
+```
+
+### 04 — Operate what I build
+
+Shipping the code is not the finish line.
+
+I care about:
+
+**logs · metrics · failures · latency · resource usage · deployment behavior · recovery**
+
+---
+
+# Current Engineering Focus
+
+```text
+Distributed Systems
+        +
+AI Infrastructure
+        +
+Real-Time Platforms
+        +
+Cloud-Native Engineering
+        +
+Product Architecture
+```
+
+Currently going deeper into:
+
+* Kubernetes & container orchestration
+* Distributed systems patterns
+* Event-driven architecture
+* AI inference infrastructure
+* System observability & reliability
+* Production-grade cloud architecture
+
+---
+
+# Engineering Principles
+
+> **Own the problem, not just the ticket.**
+
+> **Architecture should make the system easier to change, not harder to understand.**
+
+> **AI is a system component—not the entire system.**
+
+> **Production behavior matters as much as implementation correctness.**
+
+---
+
+## Recent Activity
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ---
 
-## 💡 Philosophy
-
-> **"Build systems that scale. Ship software that lasts."**
-
-I believe in:
--  **Engineering Excellence** - Writing code that's maintainable, testable, and production-ready
--  **System Design** - Thinking beyond features to architecture and scalability
--  **Pragmatic Solutions** - Balancing ideal architecture with shipping velocity
--  **Continuous Learning** - Staying current with evolving technologies and patterns
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://harshshah.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harsh-shah-9848hs">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:harshshah9848@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Open to collaborating on innovative projects and interesting engineering challenges.</i>
-</p>
-
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh-shah-1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+### Building systems from first principles to production.
+
+<a href="https://harshshah.onrender.com">
+<img src="https://img.shields.io/badge/harshshah.onrender.com-18181B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harsh-shah-1&color=blueviolet&style=flat-square&label=Profile+Views"/>
+
+</div>
